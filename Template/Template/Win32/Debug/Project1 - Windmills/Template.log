@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\justin\dropbox\college\level 6\graphics\git\projects\project1\template\template\main.cpp(12): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\justin\dropbox\college\level 6\graphics\git\projects\project1\template\template\main.cpp(12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\justin\dropbox\college\level 6\graphics\git\projects\project1\template\template\main.cpp(13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\justin\dropbox\college\level 6\graphics\git\projects\project1\template\template\main.cpp(14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\justin\dropbox\college\level 6\graphics\git\projects\project1\template\template\main.cpp(16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\justin\dropbox\college\level 6\graphics\git\projects\project1\template\template\main.cpp(17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\justin\dropbox\college\level 6\graphics\git\projects\project1\template\template\main.cpp(18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\justin\dropbox\college\level 6\graphics\git\projects\project1\template\template\main.cpp(20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\justin\dropbox\college\level 6\graphics\git\projects\project1\template\template\main.cpp(21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Template.vcxproj -> C:\Users\Justin\Dropbox\College\Level 6\Graphics\Git\Projects\Project1\Template\Debug\Project1 - Windmills.exe
+  Template.vcxproj -> C:\Users\Justin\Dropbox\College\Level 6\Graphics\Git\Projects\Project1\Template\Debug\Project1 - Windmills.pdb (Full PDB)

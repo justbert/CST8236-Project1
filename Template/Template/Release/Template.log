@@ -1,0 +1,22 @@
+﻿  main.cpp
+main.cpp(22): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(26): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(27): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(31): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 234 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Template.vcxproj -> C:\Users\Justin\Dropbox\College\Level 6\Graphics\Git\Projects\Project1\Template\Release\Project1 - Windmills.exe
+  Template.vcxproj -> C:\Users\Justin\Dropbox\College\Level 6\Graphics\Git\Projects\Project1\Template\Release\Project1 - Windmills.pdb (Full PDB)
